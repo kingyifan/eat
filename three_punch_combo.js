@@ -7,6 +7,6 @@ $("#start").click(function () {
   }
 });
 $("#stop").click(function () {
-	alert("哼！申老师还没挑到你心坎里呀，那就听我的！");
+	alert("哼！静静还没挑到你心坎里呀，那就听我的吧！");
   $(this).hide();
 });
