@@ -7,6 +7,6 @@ $("#start").click(function () {
   }
 });
 $("#stop").click(function () {
-	alert("哼！萌萌还没挑到你心坎里呀，那就听我的吧！");
+	alert("哼！团子还没挑到你心坎里呀，那就听憨憨的吧！");
   $(this).hide();
 });
